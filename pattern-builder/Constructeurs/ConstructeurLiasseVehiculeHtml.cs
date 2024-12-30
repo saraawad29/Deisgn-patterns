@@ -1,5 +1,4 @@
 using System;
-
 public class ConstructeurLiasseVehiculeHtml : ConstructeurLiasseVehicule
 {
     public ConstructeurLiasseVehiculeHtml()
