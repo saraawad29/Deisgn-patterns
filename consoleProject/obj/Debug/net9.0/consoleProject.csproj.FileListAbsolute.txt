@@ -1,0 +1,14 @@
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.AssemblyInfoInputs.cache
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.AssemblyInfo.cs
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\consoleProject\bin\Debug\net9.0\consoleProject.exe
+D:\dotnet\projects\consoleProject\bin\Debug\net9.0\consoleProject.deps.json
+D:\dotnet\projects\consoleProject\bin\Debug\net9.0\consoleProject.runtimeconfig.json
+D:\dotnet\projects\consoleProject\bin\Debug\net9.0\consoleProject.dll
+D:\dotnet\projects\consoleProject\bin\Debug\net9.0\consoleProject.pdb
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.dll
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\refint\consoleProject.dll
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.pdb
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\consoleProject.genruntimeconfig.cache
+D:\dotnet\projects\consoleProject\obj\Debug\net9.0\ref\consoleProject.dll

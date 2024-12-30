@@ -1,0 +1,14 @@
+D:\dotnet\projects\pattern-builder\bin\Debug\net9.0\pattern-builder.exe
+D:\dotnet\projects\pattern-builder\bin\Debug\net9.0\pattern-builder.deps.json
+D:\dotnet\projects\pattern-builder\bin\Debug\net9.0\pattern-builder.runtimeconfig.json
+D:\dotnet\projects\pattern-builder\bin\Debug\net9.0\pattern-builder.dll
+D:\dotnet\projects\pattern-builder\bin\Debug\net9.0\pattern-builder.pdb
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.AssemblyInfoInputs.cache
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.AssemblyInfo.cs
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.dll
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\refint\pattern-builder.dll
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.pdb
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\pattern-builder.genruntimeconfig.cache
+D:\dotnet\projects\pattern-builder\obj\Debug\net9.0\ref\pattern-builder.dll
