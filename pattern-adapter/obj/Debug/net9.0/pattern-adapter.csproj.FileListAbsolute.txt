@@ -1,0 +1,15 @@
+D:\dotnet\projects\pattern-adapter\bin\Debug\net9.0\pattern-adapter.exe
+D:\dotnet\projects\pattern-adapter\bin\Debug\net9.0\pattern-adapter.deps.json
+D:\dotnet\projects\pattern-adapter\bin\Debug\net9.0\pattern-adapter.runtimeconfig.json
+D:\dotnet\projects\pattern-adapter\bin\Debug\net9.0\pattern-adapter.dll
+D:\dotnet\projects\pattern-adapter\bin\Debug\net9.0\pattern-adapter.pdb
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.AssemblyInfoInputs.cache
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.AssemblyInfo.cs
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.sourcelink.json
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.dll
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\refint\pattern-adapter.dll
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.pdb
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\pattern-adapter.genruntimeconfig.cache
+D:\dotnet\projects\pattern-adapter\obj\Debug\net9.0\ref\pattern-adapter.dll
