@@ -1,0 +1,15 @@
+D:\dotnet\projects\pattern-bridge\bin\Debug\net9.0\pattern-bridge.exe
+D:\dotnet\projects\pattern-bridge\bin\Debug\net9.0\pattern-bridge.deps.json
+D:\dotnet\projects\pattern-bridge\bin\Debug\net9.0\pattern-bridge.runtimeconfig.json
+D:\dotnet\projects\pattern-bridge\bin\Debug\net9.0\pattern-bridge.dll
+D:\dotnet\projects\pattern-bridge\bin\Debug\net9.0\pattern-bridge.pdb
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.AssemblyInfoInputs.cache
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.AssemblyInfo.cs
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.sourcelink.json
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.dll
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\refint\pattern-bridge.dll
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.pdb
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\pattern-bridge.genruntimeconfig.cache
+D:\dotnet\projects\pattern-bridge\obj\Debug\net9.0\ref\pattern-bridge.dll
