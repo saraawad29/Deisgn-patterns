@@ -1,0 +1,15 @@
+D:\dotnet\projects\entrainement-examen\exo-1\bin\Debug\net9.0\exo-1.exe
+D:\dotnet\projects\entrainement-examen\exo-1\bin\Debug\net9.0\exo-1.deps.json
+D:\dotnet\projects\entrainement-examen\exo-1\bin\Debug\net9.0\exo-1.runtimeconfig.json
+D:\dotnet\projects\entrainement-examen\exo-1\bin\Debug\net9.0\exo-1.dll
+D:\dotnet\projects\entrainement-examen\exo-1\bin\Debug\net9.0\exo-1.pdb
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.AssemblyInfoInputs.cache
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.AssemblyInfo.cs
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.sourcelink.json
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.dll
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\refint\exo-1.dll
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.pdb
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\exo-1.genruntimeconfig.cache
+D:\dotnet\projects\entrainement-examen\exo-1\obj\Debug\net9.0\ref\exo-1.dll
