@@ -1,0 +1,15 @@
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.AssemblyInfoInputs.cache
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.AssemblyInfo.cs
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.sourcelink.json
+D:\dotnet\projects\pattern-command\bin\Debug\net9.0\pattern-command.exe
+D:\dotnet\projects\pattern-command\bin\Debug\net9.0\pattern-command.deps.json
+D:\dotnet\projects\pattern-command\bin\Debug\net9.0\pattern-command.runtimeconfig.json
+D:\dotnet\projects\pattern-command\bin\Debug\net9.0\pattern-command.dll
+D:\dotnet\projects\pattern-command\bin\Debug\net9.0\pattern-command.pdb
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.dll
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\refint\pattern-command.dll
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.pdb
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\pattern-command.genruntimeconfig.cache
+D:\dotnet\projects\pattern-command\obj\Debug\net9.0\ref\pattern-command.dll
