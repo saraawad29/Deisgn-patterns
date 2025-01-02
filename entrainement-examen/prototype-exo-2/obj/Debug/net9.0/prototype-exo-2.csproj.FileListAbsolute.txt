@@ -1,0 +1,15 @@
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\bin\Debug\net9.0\prototype-exo-2.exe
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\bin\Debug\net9.0\prototype-exo-2.deps.json
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\bin\Debug\net9.0\prototype-exo-2.runtimeconfig.json
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\bin\Debug\net9.0\prototype-exo-2.dll
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\bin\Debug\net9.0\prototype-exo-2.pdb
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.AssemblyInfoInputs.cache
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.AssemblyInfo.cs
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.sourcelink.json
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.dll
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\refint\prototype-exo-2.dll
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.pdb
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\prototype-exo-2.genruntimeconfig.cache
+D:\dotnet\projects\entrainement-examen\prototype-exo-2\obj\Debug\net9.0\ref\prototype-exo-2.dll
