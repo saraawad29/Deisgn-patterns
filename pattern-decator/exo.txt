@@ -1,0 +1,9 @@
+c'est de créer une structure où chaque ajout (comme le lait ou le sucre) est un décorateur. 
+On commence par une interface ICafe, qui décrit les fonctionnalités (comme obtenir le coût et la description). 
+Ensuite, on fait une première classe, CafeSimple, pour représenter un café sans rien. 
+Puis, grâce à une classe abstraite CafeDecorator, on peut créer des "ajouts" spécifiques, comme Lait et Sucre.
+le décorateur Lait ajoute 0,50 € et modifie la description en ajoutant " + lait". 
+Pour Sucre, qui ajoute 0,20 € et " + sucre". 
+À la fin, on prend un café simple, on y ajoute du lait, puis du sucre. 
+Donc un café décrit comme "Café simple + lait + sucre", pour un coût total de 2,70 €. 
+le but c'est de facilité l'ajouter d’autres options sans changer la structure principale.
